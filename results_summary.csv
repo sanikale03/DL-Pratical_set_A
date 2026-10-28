@@ -1,0 +1,6 @@
+Step / Topic,Task type,Dataset used,Key metric,Result achieved,Time taken (min)
+ANN,Classification,Pima diabetes (768 rows),Test accuracy,0.7013,
+OpenCV,Preprocessing,5 generated sample images,N/A,5 x 5 grid saved,
+CNN,Classification,"CIFAR-10 (20,000 train / 4,000 test)",Test accuracy,0.6335,
+RNN,Regression,Airline passengers (144 months),Test RMSE,32.08,
+Transformer,Inference,25 custom review sentences,Correct among 20 clear reviews,20/20,

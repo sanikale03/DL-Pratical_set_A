@@ -1,0 +1,26 @@
+Sentence,True_Sentiment,Predicted_Label,Confidence_Score
+The film was absolutely brilliant and moving.,POS,POSITIVE,0.9998874664306641
+The actors gave outstanding performances.,POS,POSITIVE,0.9998635053634644
+I loved the story from beginning to end.,POS,POSITIVE,0.9998769760131836
+The music made the movie even better.,POS,POSITIVE,0.9992433786392212
+A wonderful film that I would watch again.,POS,POSITIVE,0.999889612197876
+The direction was excellent and creative.,POS,POSITIVE,0.9998745918273926
+The comedy was clever and enjoyable.,POS,POSITIVE,0.9998852014541626
+The visuals were beautiful and impressive.,POS,POSITIVE,0.999884843826294
+This movie made my evening special.,POS,POSITIVE,0.9991063475608826
+A powerful and unforgettable experience.,POS,POSITIVE,0.9998877048492432
+Worst movie I have ever seen.,NEG,NEGATIVE,0.9997690320014954
+The story was boring and confusing.,NEG,NEGATIVE,0.9997091889381409
+The acting was terrible throughout.,NEG,NEGATIVE,0.9997456669807434
+I regret spending money on this film.,NEG,NEGATIVE,0.9986114501953125
+The dialogues were weak and dull.,NEG,NEGATIVE,0.9998089671134949
+Nothing in this movie worked for me.,NEG,NEGATIVE,0.9995310306549072
+The pacing was painfully slow.,NEG,NEGATIVE,0.9997677206993103
+The ending was disappointing.,NEG,NEGATIVE,0.9996881484985352
+The film was noisy and badly edited.,NEG,NEGATIVE,0.9998026490211487
+I would not recommend this movie.,NEG,NEGATIVE,0.9006776213645935
+The acting was decent but the plot was weak.,NEU,NEGATIVE,0.99883633852005
+The movie had some good and bad moments.,NEU,POSITIVE,0.9969503283500671
+The story was average and predictable.,NEU,NEGATIVE,0.9997231364250183
+The film was timepass only.,NEU,NEGATIVE,0.9875213503837585
+"Total bakwaas picture, but the songs were okay.",NEU,POSITIVE,0.9960804581642151
