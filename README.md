@@ -13,7 +13,7 @@ The notebook is designed to load data, preprocess it, build or use a model, eval
 
 ## 📺 Presentation Video
 
-👉 **https://drive.google.com/file/d/1kmwR3SfuSy2SD7GK4B7VeyXmdcdiLr2x/view?usp=sharing**
+👉 **https://drive.google.com/file/d/1AvP5VYKHotlQx__d1xJlBSvYYgsfLtd2/view?usp=sharing**
 ------------------------------------------------------------------------
 
 
